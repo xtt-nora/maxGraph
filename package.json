@@ -1,0 +1,26 @@
+{
+  "name": "demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@maxgraph/core": "^0.10.3",
+    "d3": "^7.9.0",
+    "gojs": "^3.0.3",
+    "mxgraph": "^4.2.2",
+    "vue": "^3.4.21",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@typed-mxgraph/typed-mxgraph": "^1.0.8",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vue-tsc": "^2.0.6"
+  }
+}

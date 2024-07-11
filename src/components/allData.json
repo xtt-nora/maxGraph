@@ -1,0 +1,160 @@
+{
+    "alldata" : [
+    {
+      "type": "vertex",
+      "name": "A",
+      "x-pos": 0,
+      "y-pos": 0
+    },
+    {
+      "type": "vertex",
+      "name": "B",
+      "x-pos": 2112,
+      "y-pos": 0
+    },
+    {
+      "type": "vertex",
+      "name": "C",
+      "x-pos": 2112,
+      "y-pos": 1320
+    },
+    {
+      "type": "vertex",
+      "name": "D",
+      "x-pos": 5280,
+      "y-pos": 1320
+    },
+    {
+      "type": "vertex",
+      "name": "E",
+      "x-pos": 5280,
+      "y-pos": 924
+    },
+    {
+      "type": "vertex",
+      "name": "F",
+      "x-pos": 10296,
+      "y-pos": 924
+    },
+    {
+      "type": "vertex",
+      "name": "G",
+      "x-pos": 10296,
+      "y-pos": 4752
+    },
+    {
+      "type": "vertex",
+      "name": "H",
+      "x-pos": 10824,
+      "y-pos": 4752
+    },
+    {
+      "type": "vertex",
+      "name": "I",
+      "x-pos": 10824,
+      "y-pos": 6204
+    },
+    {
+      "type": "vertex",
+      "name": "J",
+      "x-pos": 10032,
+      "y-pos": 6204
+    },
+    {
+      "type": "vertex",
+      "name": "K",
+      "x-pos": 10032,
+      "y-pos": 2772
+    },
+    {
+      "type": "vertex",
+      "name": "L",
+      "x-pos": 5940,
+      "y-pos": 2772
+    },
+    {
+      "type": "vertex",
+      "name": "M",
+      "x-pos": 5940,
+      "y-pos": 2376
+    },
+    {
+      "type": "vertex",
+      "name": "N",
+      "x-pos": 264,
+      "y-pos": 2376
+    },
+    {
+      "type": "vertex",
+      "name": "O",
+      "x-pos": 264,
+      "y-pos": 4752
+    },
+    {
+      "type": "vertex",
+      "name": "P",
+      "x-pos": 0,
+      "y-pos": 4752
+    },
+    {
+      "type": "I-NIU",
+      "name": "M0",
+      "x-pos": 8184,
+      "y-pos": 2772
+    },
+    {
+      "type": "I-NIU",
+      "name": "M1",
+      "x-pos": 4224,
+      "y-pos": 2376
+    },
+    {
+      "type": "I-NIU",
+      "name": "M2",
+      "x-pos": 2112,
+      "y-pos": 2376
+    },
+    {
+      "type": "I-NIU",
+      "name": "M3",
+      "x-pos": 3696,
+      "y-pos": 1320
+    },
+    {
+      "type": "T-NIU",
+      "name": "S0",
+      "x-pos": 0,
+      "y-pos": 1584
+    },
+    {
+      "type": "T-NIU",
+      "name": "S1",
+      "x-pos": 10296,
+      "y-pos": 1584
+    },
+    {
+      "type": "T-NIU",
+      "name": "S2",
+      "x-pos": 7656,
+      "y-pos": 924
+    },
+    {
+      "type": "T-NIU",
+      "name": "S3",
+      "x-pos": 1056,
+      "y-pos": 0
+    },
+    {
+      "type": "T-NIU",
+      "name": "S4",
+      "x-pos": 132,
+      "y-pos": 4752
+    },
+    {
+      "type": "T-NIU",
+      "name": "S5",
+      "x-pos": 10824,
+      "y-pos": 5808
+    }
+  ]
+}
